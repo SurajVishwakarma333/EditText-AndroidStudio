@@ -3,7 +3,8 @@
 • Edittext refers to the widget that displays an empty textfield in which a user can enter the required text and this text is further used inside our application.
 
 
-# .java file
+# PROJECT
+.java file
 
 
     import androidx.appcompat.app.AppCompatActivity;
