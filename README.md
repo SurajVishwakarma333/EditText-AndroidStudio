@@ -83,7 +83,7 @@
 5. gravity: The gravity attribute is an optional attribute which is used to control the alignment of the text like left, right, center, top, bottom, center_vertical, center_horizontal etc.
   
             android:gravity="right"      
-            ![right](https://user-images.githubusercontent.com/101108540/173035203-3e0044c3-835d-44fb-afff-af11c8e9c0f3.jpg)
+![right](https://user-images.githubusercontent.com/101108540/173035203-3e0044c3-835d-44fb-afff-af11c8e9c0f3.jpg)
 
 
 6. hint: hint is an attribute used to set the hint i.e. what you want user to enter in this edit text. Whenever user start to type in edit text the hint will automatically disappear.
@@ -102,7 +102,7 @@
    
             android:background="#000000"
       
-            ![background](https://user-images.githubusercontent.com/101108540/173035381-9ea64783-0694-49a9-b009-e9d453d86763.jpg)
+![background](https://user-images.githubusercontent.com/101108540/173035381-9ea64783-0694-49a9-b009-e9d453d86763.jpg)
 
 
 10. textStyle: textStyle attribute is used to set the text style of a edit text. The possible text styles are bold, italic and normal. If we need to use two or more styles for a edit text then “|” operator is used for that.
